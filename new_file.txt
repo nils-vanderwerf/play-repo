@@ -1,4 +1,8 @@
 some text
 sample branch
 cool branch
+<<<<<<< HEAD
 some file changes
+=======
+some other file changes
+>>>>>>> 8b42a09 (Stash local)
