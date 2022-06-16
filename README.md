@@ -1,7 +1,2 @@
 This is a sample read me project by Nils V
-remote changes
-more remote changes
-local changes
-another
-moooore
-branch addition
+to learn some github
