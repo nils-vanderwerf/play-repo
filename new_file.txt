@@ -2,3 +2,7 @@ some text
 sample branch
 changes
 new branch changes
+test branch changes
+more test branch changes
+extra changes
+more conflicts
